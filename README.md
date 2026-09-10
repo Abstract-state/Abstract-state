@@ -1,14 +1,13 @@
 # Hi 👋, This is Asmith
-### Computer Science Engineering Student
+### Computer Science Engineering
 
 ---
 
 #### About Me
 
-I am a dynamic Computer Science Engineering student from VIT Vellore. I am adept in software development, machine learning (ML), data science, data structures and algorithms. My internships have equipped me with hands-on experience in advanced projects such as algorithm design, computer vision, and predictive analytics, showcasing my ability to address complex computational challenges. Proficient in various programming languages and analytical frameworks, I am dedicated to leveraging my expertise in software engineering and data science to innovate solutions for complex problems. With a passion for collaborative teamwork and a commitment to continuous learning, I am poised to contribute to technological advancements and efficiencies in my future endeavors.
+I am a dynamic Computer Science Engineering, completed my undergrad from VIT Vellore. Currently working as Software Engineer at Wells Fargo. I am adept in software development, machine learning (ML), data science, data structures and algorithms. My internships have equipped me with hands-on experience in advanced projects such as algorithm design, computer vision, and predictive analytics, showcasing my ability to address complex computational challenges. Proficient in various programming languages and analytical frameworks, I am dedicated to leveraging my expertise in software engineering and data science to innovate solutions for complex problems. With a passion for collaborative teamwork and a commitment to continuous learning, I am poised to contribute to technological advancements and efficiencies in my future endeavors.
 
-- 🌱 I’m currently learning **Spring Boot, NLP**
-- 💬 Ask me about **Machine Learning, Computer Vision**
+- 💬 Ask me about **Machine Learning, Computer Vision, LLM**
 - 📫 How to reach me **asmithkr1314@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1iWf_SZVimlEA0Gn84N7oTFpEX8vOh7PU/view?usp=drive_link)
 
